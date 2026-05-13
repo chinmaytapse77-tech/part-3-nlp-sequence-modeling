@@ -1,0 +1,53 @@
+SAMPLE PREDICTIONS — Logistic Regression + TF-IDF
+============================================================
+
+[1] ✓
+  Message : I need information about the payment process. My ticket number is 78732. Please respond as soon as p
+  True    : neutral
+  Pred    : neutral
+
+[2] ✓
+  Message : I need information about the payment process.
+  True    : neutral
+  Pred    : neutral
+
+[3] ✓
+  Message : The refund process was fast and convenient. I appreciate the quick response.
+  True    : positive
+  Pred    : positive
+
+[4] ✓
+  Message : My refund is still pending and this experience is frustrating. My ticket number is 33927.
+  True    : negative
+  Pred    : negative
+
+[5] ✓
+  Message : Please tell me how to update my account details.
+  True    : neutral
+  Pred    : neutral
+
+[6] ✓
+  Message : I need help finding the invoice for my last order. Please respond as soon as possible.
+  True    : neutral
+  Pred    : neutral
+
+[7] ✓
+  Message : I am satisfied with the plan and would recommend it to others. My ticket number is 99198.
+  True    : positive
+  Pred    : positive
+
+[8] ✓
+  Message : I want to understand the warranty terms for this product.
+  True    : neutral
+  Pred    : neutral
+
+[9] ✓
+  Message : I need help finding the invoice for my last order.
+  True    : neutral
+  Pred    : neutral
+
+[10] ✓
+  Message : My refund is still pending and this experience is frustrating.
+  True    : negative
+  Pred    : negative
+

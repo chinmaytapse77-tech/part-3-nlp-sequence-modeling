@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Logistic Regression + TF-IDF,1.0,1.0,1.0,1.0
+Naive Bayes + BoW,1.0,1.0,1.0,1.0
+LSTM (Embedding + Sequence),0.35,0.1225,0.35,0.1815
